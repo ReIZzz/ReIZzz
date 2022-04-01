@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Nikolai</h1>
-<h3 align="center">A driven in data automatisation & analysis from Russia</h3>
+<h3 align="center">Driven in data automatisation & analysis from Russia</h3>
 
 - 🌱 I’m currently learning **Data Engineering, Data Analysis & Visualisation**
 - 👀 I’m interested in different aspects of data
