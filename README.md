@@ -5,7 +5,7 @@
 - 👀 I’m interested in different aspects of data
 - 📫 How to reach me ZelenikhinNS@gmail.com
 
-<h3 align="center">🎶 🛹 📷 🧘🏼‍♂️ 🎧 🏂 🍵</h3>
+<h3 align="center">🛹 🧘🏼‍♂️ 🎶 📷 🏂</h3>
 
 
 <!---
